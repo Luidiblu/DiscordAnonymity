@@ -85,4 +85,4 @@ if __name__ == "__main__":
             print('Changing Discord info!')
             make_request()
             print('Sleeping...')
-            time.sleep(900)
+            time.sleep(1800000)
